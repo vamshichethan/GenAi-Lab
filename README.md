@@ -86,4 +86,4 @@ streamlit run main.py
 
 ## Learning Outcome
 
-This repo helped me understand how GenAI apps are assembled beyond a single prompt: loading data, splitting documents, creating embeddings, storing vectors, retrieving context, building chains, and connecting LLMs to real interfaces like Streamlit and SQL databases.
+This repo helped me understand how GenAI apps are assembled beyond a single prompt: loading data, splitting documents, creating embeddings, storing vectors, retrieving context, building chains, and connecting LLMs to real interfaces like Streamlit and SQL databases # 
